@@ -1,0 +1,2 @@
+# QRscannerSyLink
+QRScanner
